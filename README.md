@@ -3,8 +3,8 @@
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdyo&layout=compact)
 
-### Linkedin
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-dyonisio-a59a08206/)
+### Redes 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-dyonisio-a59a08206/) [![Instagram]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-dyonisio-a59a08206/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))
 
 ### Tecnologias que utilizo
 
