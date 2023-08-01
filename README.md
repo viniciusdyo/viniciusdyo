@@ -1,12 +1,12 @@
-## Olá, meu nome é Vinicius e esse é o meu github 👍
+## Hello, my name is Vinicius and this is my github 👍
 
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdyo&layout=compact)
 
-### Redes 
+### Social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-dyonisio-a59a08206/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vinidy/)
 
-### Tecnologias que utilizo
+### Technologies
 
   <div style="display:inline-block;">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,4 +22,4 @@
 
 ---
 
-Sou aficionado por tecnologia, ficção científica e jogos. Gosto de programar aplicativos web e desenvolver servidores privados de jogos online(MMORPG ou Roleplay). 
+I am passionate about technology, science fiction and games. I like to develop web applications and private servers for online games (MMORPG or Roleplay).
