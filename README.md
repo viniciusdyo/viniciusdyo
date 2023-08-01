@@ -19,3 +19,7 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   </div>
+
+---
+
+Sou aficionado por tecnologia, ficção científica e jogos. Gosto de programar aplicativos web e desenvolver servidores privados de jogos online(MMORPG ou Roleplay). 
