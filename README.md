@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdyo&layout=compact&theme=dark)
 
 ### 📤 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusdyo&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusdyo&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 I am passionate about technology, science fiction and games. I like to develop web applications and private servers for online games (MMORPG or Roleplay).
