@@ -1,12 +1,9 @@
 ## Hello, my name is Vinicius and this is my github 👍
 
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdyo&layout=compact)
-
-### Social media
+### 💬 Social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-dyonisio-a59a08206/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vinidy/)
 
-### Technologies
+### 👩‍💻 Technologies
 
   <div style="display:inline-block;">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,4 +19,11 @@
 
 ---
 
+###	🖥️ Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdyo&layout=compact&theme=dark)
+
+### 📤 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusdyo&show_icons=true&theme=dark)
+
+---
 I am passionate about technology, science fiction and games. I like to develop web applications and private servers for online games (MMORPG or Roleplay).
